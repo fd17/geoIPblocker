@@ -3,7 +3,7 @@
  
  ## Requirements
   * Linux (tested on Ubuntu 18.04)
-  * ipset (if not already installed use `apt install ipset` (on Ubuntu))
+  * ipset (on Ubuntu just use `apt install ipset` if it is not already installed)
   
 ## Execution
  make executable:
