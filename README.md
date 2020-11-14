@@ -1,5 +1,5 @@
 # geoIPblocker
- A simple shell script to block entire countries via IP tables.
+ A simple shell script to block entire countries via their associated IP sets.
  
  ## Requirements
   * Linux (tested on Ubuntu 18.04)
