@@ -18,7 +18,7 @@
   If a country rule already exists it will be overwritten.
  
  ## Persistence
-  To save/restore settings use the commented lines in the script or just run it at reboot. Associated IPs may also change over time, so you may need to run the script    from time to time to stay up to date.
+  To save/restore settings use the commented lines in the script or just run it at reboot. IP ranges associated with a certain country can also change over time, so you may need to run the script from time to time to stay up to date.
  
  ## Additional info
   For list of country codes and their associated IP blocks see https://www.ipdeny.com/ipblocks/
