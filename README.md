@@ -22,3 +22,5 @@
  
  ## Additional info
   For list of country codes and their associated IP blocks see https://www.ipdeny.com/ipblocks/
+   
+  Use `iptables -L` to check which IP sets are currently in use. 
