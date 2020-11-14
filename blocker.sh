@@ -21,5 +21,5 @@ echo "Done."
 #iptables-save > /etc/iptables.rules
 
 # use this to restore config
-#ipset restore < /etc/iptables/ipset.up.rules
-#iptables-restore < /etc/iptables/rules.v4
+#ipset restore < /etc/ipset.rules
+#iptables-restore < /etc/iptables.rules
