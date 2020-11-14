@@ -15,7 +15,7 @@
  Example:
  `./blocker.sh ru` to block all connections coming from Russian IPs.
  
-  If a rule already exists it will be overwritten.
+  If a country rule already exists it will be overwritten.
  
  ## Persistence
   To save/restore settings use the commented lines in the script or just run it at reboot. Associated IPs may also change over time, so you may need to run the script    from time to time to stay up to date.
